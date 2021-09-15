@@ -1,0 +1,22 @@
+{
+  "name": "tablasrestful",
+  "version": "1.0.0",
+  "description": "Practica tablas RESTful",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a329782/tablasRESTful.git"
+  },
+  "author": "Alejandro Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a329782/tablasRESTful/issues"
+  },
+  "homepage": "https://github.com/a329782/tablasRESTful#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
